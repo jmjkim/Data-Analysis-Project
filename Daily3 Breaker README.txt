@@ -1,11 +1,11 @@
-"Daily3 Breaker.py" is a python language program which collects past drawing numbers of California Daily 3 Lottery and it was made for a purpose of self-learning python.
-
-The past drawning numbers are posted under the past drawning number tap and numbers are listed throughout page 1 to 19.
-
-The past drawning numbers are only 6 months worth data as the CA daily 3 website only permits to display past 6 months drawing numbers.
+"Daily3 Breaker.py" is a python language program which collects past drawing numbers of California Daily 3 Lottery. I made this program for the purpose of self-learning python.
 
 
-Use of my "Daily3 Breaker.py" program in any way of malicious, harmful or destructive is not my intention.
+- The past drawning numbers are posted under the past drawning number tap and numbers are listed throughout page 1 to 19.
+
+- The past drawning numbers are 6 months worth of data as the CA daily 3 website only displaying past 6 months of drawing numbers.
+
+- Use of my "Daily3 Breaker.py" in any way of malicious, harmful or destructive is not my intention for this project.
 
 
-Any inquiries, concerns, please contact jmjkim00@icloud.com
+  Any inquiries, concerns, please contact jmjkim00@icloud.com
