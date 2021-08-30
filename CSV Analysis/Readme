@@ -1,0 +1,10 @@
+This question is part of the IBM's Data Analyst Professional Certificate course.
+
+
+"Imagine you are a Data Analyst in the planning division of a leading retailer in the USA. 
+Your assignment is to forecast the demand for three key product categories for the current year so that you can be adequately stocked to meet the year-round demand."
+
+
+The goal of this assignment is using Data Analytics for forecasting and planning inventory for year round demand (predictive analytics).
+
+This is my python code to organize a raw CSV file and visualized it to a bar chart to answer the given question above (answer is not included).
