@@ -1,9 +1,7 @@
 This project is part of the IBM's Data Analyst Professional Certificate course.
-Purpose of this project: An analysis of whether engine-size affects on price of a car or not.
-
-
-#End result: 
-engine-size is a good predictor on the price of a car by having an almost dignal regression line (as shown on the scatterplot) which indicates that when engine-size goes up, price goes up vice versa.
+Purpose of this project: An analysis of relation between multiple variables vs price of a car.
 
 #Note:
 rows that contains more than one of NaN (Not a Number, I treated as N/A) values are dropped for data cleansing
+
+Project is still being worked on.
